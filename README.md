@@ -18,5 +18,5 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone [https://github.com/eldar867/telegram-bot-weather.git](https://github.com/eldar867/chat-bot.git)
+git clone https://github.com/eldar867/chat-bot.git
 cd telegram-bot-weather
