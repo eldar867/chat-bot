@@ -98,7 +98,7 @@ async def callback_info(callback: CallbackQuery):
 
 # ==================== ЗАПУСК ====================
 async def main():
-    logging.info("🚀 Запуск бота...")
+    logging.info("Запуск бота...")
     await dp.start_polling(bot)
 
 if __name__ == "__main__":
